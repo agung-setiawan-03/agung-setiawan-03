@@ -50,24 +50,15 @@ I am a final-year student (8th semester) at Gunadarma University and currently w
 
 ---
 
-### GitHub Stats
 
-📌 **Total Stars Earned:** 470  
-📌 **Total Commits:** 3.1k  
-📌 **Total PRs:** 192  
-📌 **Total Issues:** 117  
-📌 **Contributed to (last year):** 4  
-
----
 
 ### Language Usage
 
-- **Golang:** 30%
-- **JavaScript:** 25%
-- **PHP:** 20%
-- **TypeScript:** 15%
-- **Others:** 10%
+- **Golang:** 70%
+- **JavaScript:** 15%
+- **PHP:** 10%
+- **TypeScript:** 5%
 
 ---
 
-📫 **Contact Me:** [LinkedIn](#) | [GitHub](#) | [Twitter](#)
+📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/agung-setiawan-573294234/) | [GitHub](https://github.com/agung-setiawan-03) | 
