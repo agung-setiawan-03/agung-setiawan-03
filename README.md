@@ -1,11 +1,11 @@
 # Agung Setiawan
-## Senior Software Engineer
+## Software Engineer
 
 ---
 
 ### About Me
 
-I am a final-year student (8th semester) at Gunadarma University and currently working as a **Senior Software Engineer** at **PT PLN Icon Plus**.
+I am a final-year student (8th semester) at Gunadarma University and currently working as a **Software Engineer** at **PT PLN Icon Plus**.
 
 ---
 
